@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(255, 177, 131);
+}
+#Submit{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(255, 51, 0);
+    background-color: darksalmon;
+    cursor: pointer;
+}
+#Submit:hover{
+    color: rgb(255, 176, 139);
+    background-color: rgb(255, 68, 0);
+}
+#Sort:hover{
+    color: rgb(255, 176, 139);
+    background-color: rgb(255, 68, 0);
+}
+#Sort{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(255, 51, 0);
+    background-color: darksalmon;
+    cursor: pointer;
+}
+input{
+    margin: 10px;
+    color: rgb(255, 176, 139);
+    background-color: rgb(255, 68, 0);
+}
+input:hover{
+     background-color: rgb(255, 176, 139);
+     color: rgb(255, 68, 0);
+}
+h1{
+    color: rgb(255, 51, 0);
+}
+span{
+    color: rgb(255, 51, 0);
+}
+#Answer{
+    color: rgb(255, 51, 0);
+}
